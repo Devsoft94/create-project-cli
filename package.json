@@ -1,0 +1,15 @@
+{
+	"name": "create-project-cli",
+	"module": "index.ts",
+	"version": "1.0.0",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+  "author": {
+    "name": "Purnendu",
+  }
+}
